@@ -72651,5 +72651,12 @@
     "author": "zulerne",
     "description": "One Vim keyboard layer for all of Obsidian, in any keyboard layout: a which-key leader menu, Reading view keys and link hints, Harpoon, input method switching and .vimrc. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zulerne/obsidian-vim-layer"
+  },
+  {
+    "id": "vault-doctor",
+    "name": "Vault Doctor",
+    "author": "ll905518294",
+    "description": "Scan your vault for broken links, unreferenced resources and duplicate files, then safely organize related notes.",
+    "repo": "ll905518294/obsidian-vault-doctor"
   }
 ]
